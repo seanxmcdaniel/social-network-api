@@ -14,6 +14,8 @@
   
   The Social Media API project is a social media database that uses MongoDB to handle large amounts of unstructured data. 
   
+  ![Social Media API](https://user-images.githubusercontent.com/102200863/185194469-fe922c35-185c-4ba9-afd2-2439d04e4a4b.png)
+
   ## Installation
   
   The Social Media API uses MongoDB, Moment, and Express.js
