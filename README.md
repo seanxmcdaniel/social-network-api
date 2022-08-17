@@ -30,7 +30,12 @@
   
   ## Test
   
-  Test the API through GET, POST, PUT, DELETE in Insomnia
+  Test the API through GET, POST, PUT, DELETE in Insomnia. Follow the walkthrough videos below:
+  
+  [User Requests](https://drive.google.com/file/d/1c5mxHEKWlWE42OnYfCx8X6UysytfigCy/view)
+  [Friend Requests](https://drive.google.com/file/d/1uXXnExCOpboVownzvgMm-fs89ljpryoZ/view)
+  [Thought Requests](https://drive.google.com/file/d/1HVNa77VATvhY_bb5_9v255jO14_OyZTe/view)
+  [Reaction Requests](https://drive.google.com/file/d/1oW-XB_QmkyiC70cEE8VIBXmeXt7oyHsZ/view)
   
   ## Questions
 
